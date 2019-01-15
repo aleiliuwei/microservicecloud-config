@@ -1,2 +1,2 @@
 # microservicecloud-config
-microservicecloud-config
+microservicecloud-config demo
